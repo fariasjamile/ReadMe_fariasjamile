@@ -1,7 +1,7 @@
 <div align="left">
 <h1 align="center">Olá, eu sou a Jami!💖 </h1>
   
-  <p>- 🔭 Apaixonada por tecnologia.</p>
+<p>- 🔭 Apaixonada por tecnologia.</p>
 <p>-👩‍💻 Como Desenvolvedora FullStack Java, sou uma profissional comunicativa, persistente e proativa, interessada por tecnologia e tudo
 que ela é capaz de nos proporcionar. Com uma formação sólida em um Curso Técnico de Tecnologia integrado ao Ensino Médio,
 me formei como Técnica em Informática ao fim de 2022 e me certifiquei no Bootcamp da Generation Brasil em parceria com a
